@@ -1,0 +1,6 @@
+{
+"python.linting.flake8Args": [
+    "--ignore=E128",
+    "max-line-length=160"
+],
+}
